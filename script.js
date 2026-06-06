@@ -12,7 +12,7 @@ submitBtn.addEventListener('click', (e) => {
             alert(e);
         })
     }else{
-        alert("Please enter valid details.");
+        alert("Please enter valid details");
     }
     
 });
